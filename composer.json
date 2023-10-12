@@ -1,5 +1,5 @@
 {
-    "name": "php-ffmpeg/php-ffmpeg",
+    "name": "chrizus/lib-php-ffmpeg",
     "type": "library",
     "description": "FFMpeg PHP, an Object Oriented library to communicate with AVconv / ffmpeg",
     "keywords": [
@@ -43,6 +43,10 @@
             "name": "Pascal Baljet",
             "email": "pascal@protone.media",
             "homepage": "https://protone.media"
+        },
+        {
+            "name": "Chris van den Berg",
+            "email": "chrizus@gmail.com"
         }
     ],
     "require": {
