@@ -9,6 +9,10 @@ An Object-Oriented library to convert video/audio files with FFmpeg / AVConv.
 
 ## Your attention please
 
+original library => [PHP-FFMpeg](https://github.com/PHP-FFMpeg/PHP-FFMpeg)
+
+I use this library for peronal purposes and this library should considered non-production.
+
 ### How this library works:
 
 This library requires a working [FFMpeg install](https://ffmpeg.org/download.html). You will need both FFMpeg and FFProbe binaries to use it.
